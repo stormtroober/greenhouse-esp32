@@ -1,4 +1,4 @@
-# Greenhouse ESP32 — IoT Greenhouse Monitoring System
+# Greenhouse ESP32 IoT Greenhouse Monitoring System
 
 Greenhouse ESP32 is an embedded IoT system running on an ESP32 microcontroller that monitors environmental conditions inside a greenhouse and allows remote control of its lighting. It connects to an MQTT broker to publish sensor readings and receive actuation commands in real time.
 
